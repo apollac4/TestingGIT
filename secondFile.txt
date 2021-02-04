@@ -1,1 +1,1 @@
-Original contents of secondFile"hello there! it's me! userA!" 
+Original contents of secondFile
