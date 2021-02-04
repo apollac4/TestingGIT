@@ -1,2 +1,3 @@
 Original contents of secondFile
 "hello there! It's me! UserB!" 
+"hello there! It's me! UserA!" 
